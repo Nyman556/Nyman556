@@ -1,21 +1,7 @@
 <h1 align="center"> 👋 Hi I'm Johan </h1>
-<br />
-<br />
-<br />
-
+<br />  
+<br />  
+<br />  
+  
 🌱 I’m currently studying to be a front-end Developer at [EC](https://ecutbildning.se/) vocational university.  
-🎓 Im graduating 2025-01-24 🎓
-<!--
-**Nyman556/Nyman556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently studying to be a front-end Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: 🎓 Im graduating early 2025 🎓
