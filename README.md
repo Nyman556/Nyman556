@@ -4,4 +4,3 @@
 <br />  
   
 🌱 I’m currently studying to be a front-end Developer at [EC](https://ecutbildning.se/) vocational university.  
-⚡ Fun fact: 🎓 Im graduating early 2025 🎓
