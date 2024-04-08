@@ -5,7 +5,7 @@
   <br>
   <div align="center">
 
-🌱 I’m currently studying **Frontend** **Development** at [EC](https://ecutbildning.se) vocational university.  
+🌱 I’m currently studying **Frontend** **Development** at [EC](https://ecutbildning.se).  
 
 📫 How to reach me **Johan.nyman97@gmail.com**
 
