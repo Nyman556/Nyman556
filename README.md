@@ -7,7 +7,7 @@
 
 🌱 I’m currently studying **Frontend** **Development** at [EC](https://ecutbildning.se).  
 
-📫 How to reach me **Johan.nyman97@gmail.com**
+📫 How to reach me **johan.nyman.dev@gmail.com**
 
   </div>
   <br>
