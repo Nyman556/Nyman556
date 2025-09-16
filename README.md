@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Currently working as a **Web Developer** at [**Xedrix Utbildning**](https://www.linkedin.com/company/xedrix-utbildning/posts/?feedView=all)
+- 💼 Currently working as a **Developer** at [**Xedrix Utbildning**](https://www.linkedin.com/company/xedrix-utbildning/posts/?feedView=all)
 - 🎓 Graduated in **Frontend Development** at [**EC Utbildning**](https://ecutbildning.se)  
 - 🌱 Passionate about **React, Next.js & Tailwind CSS**  
 - ✉️ Reach me at **johan.nyman.dev@gmail.com**  
@@ -19,9 +19,6 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyman556&theme=nightowl" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyman556&layout=compact&theme=nightowl" height="180" alt="Top Languages" />
